@@ -1,13 +1,5 @@
 # ectropy-ai/api
 
-OpenAPI specification for the Ectropy platform API.
-Generated from ectropy-ai/platform, published here as the public developer contract.
+Reserved for the Ectropy API specification. Nothing is published here yet.
 
-Status: Coming soon. Platform launching first.
-
-Contents:
-- openapi.yaml
-- schemas/
-- examples/
-
-Enterprise Excellence. Schema-First. No Shortcuts.
+The record shapes the API will carry are already public in the open standard: [schemas.ectropy.ai](https://schemas.ectropy.ai/).
